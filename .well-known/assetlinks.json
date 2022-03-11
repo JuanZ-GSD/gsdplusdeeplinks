@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.gsdplus.deeplinks",
+               "sha256_cert_fingerprints": ["C5:73:39:71:04:AE:BD:7D:FB:64:83:70:59:46:6C:5C:1A:32:62:E4:A2:FB:44:BB:21:8A:1F:E2:5D:96:4A:8E"] }
+}]
